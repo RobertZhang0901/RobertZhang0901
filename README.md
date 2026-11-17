@@ -1,11 +1,13 @@
+<div align="center">
+
 # Hi, I'm Jingzhe Zhang 👋
-**HCI Research | Interested in XR/AI**
 
-🌱 **Current Pursuits**
+<sub>HCI RESEARCHER &nbsp;·&nbsp; XR / AI DEVELOPER</sub>
+</div>
 
- • Building smart interfaces 
- 
- • Computational Cognitive Science for perceptual optimization
- 
- • Human performance modeling in AR/VR environments
+---
 
+- 🎓 HCI researcher, working on extended reality and attention-aware interfaces
+- 🔭 Interested in XR interaction, computational cognitive science, human performance modeling
+- 🛠️ Unity / Unreal development on all sorts of XR platforms ( HoloLens, Quest, PICO & Vision Pro )
+---
